@@ -1,8 +1,8 @@
 #ifndef _D3D8_H
 #define _D3D8_H
 
-#include <DX8\d3d8.h>
-#include <DX8\d3dx8.h>
+#include <d3d8.h>
+#include <d3dx8.h>
 
 class FakeDirect3D8 : public IDirect3D8
 {
